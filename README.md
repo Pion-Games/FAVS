@@ -4,7 +4,7 @@
 
 
 👉 Watch Demo
-[![Watch Demo](https://img.shields.io/badge/Download-FAVS-blue?style=for-the-badge)](https://www.youtube.com/watch?v=i_Qhgi7W24k)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)(https://www.youtube.com/watch?v=i_Qhgi7W24k)
 
 
 ## 🔥 Why FAVS?
@@ -39,7 +39,7 @@ FAVS solves this by giving you **instant access to what matters most**.
 ## 📦 Get FAVS
 
 👉 Available on Fab:  
-[![FAVS Unreal Engine Plugin ](https://img.shields.io/badge/Download-FAVS-blue?style=for-the-badge)](https://www.fab.com/pl/listings/5568bfaf-0b99-49a8-a4d7-1753e8f4e549)
+[![FAVS Unreal Engine Plugin](https://img.shields.io/badge/Download-FAVS%20on%20Fab-blue?style=for-the-badge&logo=unrealengine)(https://www.fab.com/pl/listings/5568bfaf-0b99-49a8-a4d7-1753e8f4e549)
 
 ## 🏷 Tags
 
