@@ -43,4 +43,4 @@ FAVS solves this by giving you **instant access to what matters most**.
 
 ## 🏷 Tags
 
-Unreal Engine, UE5, Workflow, Productivity, Asset Management, Plugin
+UE5 Favorites Plugin, UE5 Workflow, Unreal Engine, UE5, Unreal Engine Productivity, UE5 Asset Management, UE5 Plugin
