@@ -4,8 +4,7 @@
 
 
 👉 Watch Demo
-
-![Watch Demo](https://www.youtube.com/watch?v=i_Qhgi7W24k)
+[![Watch Demo](https://img.shields.io/badge/Download-FAVS-blue?style=for-the-badge)](https://www.youtube.com/watch?v=i_Qhgi7W24k)
 
 
 ## 🔥 Why FAVS?
