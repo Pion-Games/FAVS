@@ -3,7 +3,7 @@
 🚀 Supercharge your workflow in Unreal Engine. FAVS is a Unreal Engine plugin that lets you **organize, bookmark, and instantly access your assets and folders** directly inside the Editor.
 
 
-👉 Watch Demo:
+👉 Watch Demo:<br>
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=i_Qhgi7W24k)
 
 
