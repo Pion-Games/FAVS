@@ -42,5 +42,5 @@ FAVS solves this by giving you **instant access to what matters most**.
 [![FAVS Unreal Engine Plugin](https://img.shields.io/badge/Download-FAVS%20on%20Fab-blue?style=for-the-badge&logo=unrealengine)](https://www.fab.com/pl/listings/5568bfaf-0b99-49a8-a4d7-1753e8f4e549)
 
 ## 🏷 Tags
-
+👉 [UE5 Favorites](https://www.fab.com/pl/listings/5568bfaf-0b99-49a8-a4d7-1753e8f4e549)
 UE5 Favorites Plugin, UE5 Workflow, Unreal Engine, UE5, Unreal Engine Productivity, UE5 Asset Management, UE5 Plugin
