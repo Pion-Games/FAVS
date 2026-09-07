@@ -21,19 +21,19 @@ FAVS solves this by giving you **instant access to what matters most**.
 
 ## ⚡ Key Features
 
-⭐ Create segments to categorize assets, folders, and bookmarks 
-📁 Add single assets, multiple assets, folders, or the currently opened asset 
-🌍 Create **Level Bookmarks** to instantly return to important locations in your levels 
-🎬 Bookmark important actors and level locations 
-🔷 Create **Blueprint Graph Bookmarks** - 
-⚡ Jump directly to Blueprint graphs, functions, macros, or selected nodes 
-🧩 Supports Blueprints, Widget Blueprints, and Animation Blueprints - 🖱 Full drag & drop support inside the Editor 
-⚡ One-click open / close for assets and bookmarks 
-🎨 Color coding and archiving of segments 
-🔄 Detects asset renames, folder moves, and deletions 
-🔍 Locate assets in the Content Browser 
-🧩 Clean Slate-based UI 
-✅ Supports **Unreal Engine 5.4 – 5.8**
+- ⭐ Create segments to categorize assets, folders, and bookmarks 
+- 📁 Add single assets, multiple assets, folders, or the currently opened asset 
+- 🌍 Create **Level Bookmarks** to instantly return to important locations in your levels 
+- 🎬 Bookmark important actors and level locations 
+- 🔷 Create **Blueprint Graph Bookmarks** - 
+- ⚡ Jump directly to Blueprint graphs, functions, macros, or selected nodes 
+- 🧩 Supports Blueprints, Widget Blueprints, and Animation Blueprints - 🖱 Full drag & drop support inside the Editor 
+- ⚡ One-click open / close for assets and bookmarks 
+- 🎨 Color coding and archiving of segments 
+- 🔄 Detects asset renames, folder moves, and deletions 
+- 🔍 Locate assets in the Content Browser 
+- 🧩 Clean Slate-based UI 
+- ✅ Supports **Unreal Engine 5.4 – 5.8**
 
 
 ## 🧠 Use Cases
