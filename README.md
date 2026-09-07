@@ -11,28 +11,37 @@
 
 Tired of:
 - searching for the same assets again and again?
-- forgetting Blueprint/Assets names?
+- forgetting Blueprint or asset names?
 - wasting time navigating deep folder structures?
-
+- manually searching for the same location in a level?
+- repeatedly navigating to the same Blueprint graph, function, macro, or node?
+  
 FAVS solves this by giving you **instant access to what matters most**.
 
 
 ## ⚡ Key Features
 
-- ⭐ Create segments to categorize assets
-- 📁 Add assets, folders, or currently opened asset
-- 🖱 Full drag & drop support inside the Editor
-- ⚡ One-click open / close
-- 🎨 Color groups & archiving
-- 🔄 Detects asset renames, moves, and deletions
-- 🔍 Locate assets in Content Browser
-- 🧩 Clean Slate-based UI
+⭐ Create segments to categorize assets, folders, and bookmarks 
+📁 Add single assets, multiple assets, folders, or the currently opened asset 
+🌍 Create **Level Bookmarks** to instantly return to important locations in your levels 
+🎬 Bookmark important actors and level locations 
+🔷 Create **Blueprint Graph Bookmarks** - 
+⚡ Jump directly to Blueprint graphs, functions, macros, or selected nodes 
+🧩 Supports Blueprints, Widget Blueprints, and Animation Blueprints - 🖱 Full drag & drop support inside the Editor 
+⚡ One-click open / close for assets and bookmarks 
+🎨 Color coding and archiving of segments 
+🔄 Detects asset renames, folder moves, and deletions 
+🔍 Locate assets in the Content Browser 
+🧩 Clean Slate-based UI 
+✅ Supports **Unreal Engine 5.4 – 5.8**
 
 
 ## 🧠 Use Cases
 
-- Game developers working on large UE5 projects  
-- Technical artists managing complex pipelines  
+- Game developers working on large Unreal Engine projects
+- Technical artists managing complex pipelines
+- Level designers frequently returning to important locations
+- Blueprint developers working across large graphs 
 - Anyone who wants **faster access to frequently used assets**  
 
 
