@@ -25,7 +25,7 @@ FAVS solves this by giving you **instant access to what matters most**.
 - 📁 Add single assets, multiple assets, folders, or the currently opened asset 
 - 🌍 Create **Level Bookmarks** to instantly return to important locations in your levels 
 - 🎬 Bookmark important actors and level locations 
-- 🔷 Create **Blueprint Graph Bookmarks** - 
+- 🔷 Create **Blueprint Graph Bookmarks**
 - ⚡ Jump directly to Blueprint graphs, functions, macros, or selected nodes 
 - 🧩 Supports Blueprints, Widget Blueprints, and Animation Blueprints - 🖱 Full drag & drop support inside the Editor 
 - ⚡ One-click open / close for assets and bookmarks 
